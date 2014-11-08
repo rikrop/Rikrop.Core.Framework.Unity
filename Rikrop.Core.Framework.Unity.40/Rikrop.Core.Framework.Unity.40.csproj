@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Rikrop.Core.Framework.Unity</RootNamespace>
-    <AssemblyName>Rikrop.Core.Framework.Unity</AssemblyName>
+    <AssemblyName>Rikrop.Core.Framework.Unity.40</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
